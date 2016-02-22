@@ -10,9 +10,11 @@ You have to complete 3 TODOs in the code.
 
 ## Setup
 
-Copy this code to your local machine:
+- Copy this code to your local machine:
 
-> git clone
+    git clone https://github.com/heronyang/tdd-practice.git
+
+- Open ```index.html``` in your browser
 
 ## Reference
 
